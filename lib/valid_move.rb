@@ -7,3 +7,6 @@ def position_taken?(board, index)
     return nil
   end
 end
+
+def valid_move?(board, index)
+end
